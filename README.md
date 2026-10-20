@@ -1,44 +1,46 @@
-# Muhammad Sufiyan — Portfolio Website
+# Muhammad Sufiyan – Portfolio Website
 
-A responsive, dark navy / cyan portfolio site built with plain HTML, CSS, and JavaScript. No build tools are required.
+Welcome to my personal portfolio website. This website showcases my skills, projects, and interest in software development.
 
-## Included
-- `index.html` — portfolio content and sections
-- `styles.css` — responsive styling
-- `script.js` — mobile menu and project detail popups
-- `assets/` — original SVG concept-preview images for Attendly, Pennywise, and FlowTask
+I built this website using HTML, CSS, and JavaScript, with a responsive design for desktop and mobile devices.
 
-## Run locally
-1. Extract the ZIP.
-2. Open `index.html` in Chrome, Edge, or Firefox.
-3. Internet is only needed for the optional Google Fonts; the page otherwise works locally.
+## Technologies Used
 
-## Publish on GitHub Pages
-1. Sign in to GitHub and create a **new public repository** named `sufiyan-portfolio` (or another name you prefer).
-2. Upload the contents of this folder to the repository's root. Make sure `index.html`, `styles.css`, `script.js`, and the `assets` folder are at the root level—not inside another nested folder.
-3. Open the repository → **Settings** → **Pages**.
-4. Under **Build and deployment**, choose **Deploy from a branch**.
-5. Select branch **main** and folder **/(root)**, then click **Save**.
-6. Wait a few minutes. Your public URL should be:
-   `https://Muhammad-Sufiyan7.github.io/sufiyan-portfolio/`
-7. Open that URL in a private/incognito window to check it. Share this link with clients or add it to your CV and LinkedIn.
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Web Design
 
-If you use a different repository name, change the URL path to match that exact name. GitHub Pages may take a few minutes to publish after a new upload.
+## Project Structure
 
-## Upload using GitHub website
-- Open your new repository.
-- Choose **Add file → Upload files**.
-- Drag in the files and folders from the extracted folder.
-- Enter a commit message such as `Add portfolio website`.
-- Click **Commit changes**.
+- `index.html` – Main portfolio page
+- `styles.css` – Website layout and styling
+- `script.js` – Interactive features and navigation
+- `assets/` – Images used in the website
 
-## Important honesty note
-The three project cards and their SVG images are **portfolio concept mockups** created to present your ideas professionally. They are not screenshots of deployed applications and do not imply that the planned database/Firebase/API features are implemented. Before claiming a feature as completed, build and test it, then update this portfolio with the real demo or repository link.
+## Featured Projects
 
-## Personal links included
-- GitHub: https://github.com/Muhammad-Sufiyan7
-- LinkedIn: https://www.linkedin.com/in/muhammad-sufiyan-7a7387317softwareengineer/
-- Email: msufiyan.softwaredesigner@gmail.com
+### Attendly
+An attendance management concept designed to make attendance tracking easier and more organized.
 
-## Customize before sharing
-Review the skills list and only keep tools you can confidently discuss with a client. Add real app screenshots, source-code links, and live demo links when available.
+### Pennywise
+A personal finance tracking concept focused on managing expenses and keeping track of spending.
+
+### FlowTask
+A task management concept designed to help users organize their tasks and manage their daily work.
+
+These projects represent my current design concepts and ideas for software applications.
+
+## About Me
+
+I'm Muhammad Sufiyan, a Software Engineering graduate interested in software development, mobile applications, and building useful digital solutions. I'm continuously improving my skills and working on projects to gain practical experience.
+
+## Contact
+
+Feel free to connect with me for project discussions, collaboration, or professional opportunities.
+
+- **GitHub:** https://github.com/Muhammad-Sufiyan7
+- **LinkedIn:** https://www.linkedin.com/in/muhammad-sufiyan-7a7387317softwareengineer/
+- **Email:** msufiyan.softwaredesigner@gmail.com
+
+Thank you for visiting my portfolio!
